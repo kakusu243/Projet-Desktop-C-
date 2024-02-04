@@ -1,0 +1,19 @@
+﻿<Window x:Class="Demowpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demowpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="direBonjour">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="152*"/>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="587*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="direbonjour" Content="DireBonjour" HorizontalAlignment="Left" Margin="106,247,0,0" VerticalAlignment="Top" Height="50" Width="117" Grid.Column="2" Click="direbonjour_Click"/>
+        <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="106,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360" Height="74" Grid.Column="2" FontSize="36" TextAlignment="Center" BorderThickness="1,1,8,8" Text="bonjour !!!"/>
+
+    </Grid>
+</Window>

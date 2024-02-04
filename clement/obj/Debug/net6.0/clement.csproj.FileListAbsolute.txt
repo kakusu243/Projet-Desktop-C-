@@ -1,0 +1,15 @@
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\bin\Debug\net6.0\clement.exe
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\bin\Debug\net6.0\clement.deps.json
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\bin\Debug\net6.0\clement.runtimeconfig.json
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\bin\Debug\net6.0\clement.dll
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\bin\Debug\net6.0\clement.pdb
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.csproj.AssemblyReference.cache
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.AssemblyInfoInputs.cache
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.AssemblyInfo.cs
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.csproj.CoreCompileInputs.cache
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.dll
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\refint\clement.dll
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.pdb
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\clement.genruntimeconfig.cache
+C:\Users\johns\OneDrive\Documents\Projet c#\clement\obj\Debug\net6.0\ref\clement.dll
